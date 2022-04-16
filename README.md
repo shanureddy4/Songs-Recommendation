@@ -10,7 +10,7 @@ This project make use of [Google Vision](https://cloud.google.com/vision) api to
 * Get JSON key from your account and paste it in your directory and rename it to **vision.json**
 * Now run application with command ```python3 main.py```
 ## Output
-**Image contents**
-![one](https://github.com/shanureddy4/Songs-Recommendation/blob/master/screenshots/onne.png)
-**Songs recommended**
+**Image contents** <br>
+![one](https://github.com/shanureddy4/Songs-Recommendation/blob/master/screenshots/onne.png) <br>
+**Songs recommended** <br>
 ![two](https://github.com/shanureddy4/Songs-Recommendation/blob/master/screenshots/two.png)
